@@ -47,6 +47,7 @@ A repository with automated tests included with this portfolio
 - JMeter - basics
 - BrowserStack
 - SQL
+  
 ☑️ [ISTQB Certified Tester Foundation Level](https://drive.google.com/file/d/1TOB5YyUcWKFcfeumZR9cpMRk4tqRVgxQ/view?usp=sharing) 🚀
 ## TOOLS
 - IntelliJ IDEA -  integrated development environment (IDE) for Java development
