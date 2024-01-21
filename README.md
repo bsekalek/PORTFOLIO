@@ -1,1 +1,1 @@
-SOFTWARE TESTER PORTFOLIO - Bruno Sękalski
+**SOFTWARE TESTER PORTFOLIO - Bruno Sękalski**
