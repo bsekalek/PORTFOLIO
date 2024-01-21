@@ -58,7 +58,7 @@ A repository with automated tests included with this portfolio
 - Slack - a messaging app for business that connects people to the information they need
 
 
-### TECH SKILLS
+## TECH SKILLS
 - Java - basic level
 - SQL - basic level
 - REST API testing
